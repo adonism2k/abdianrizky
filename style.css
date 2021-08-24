@@ -1,8 +1,0 @@
-.thumbnail-photo:hover {
-  transform: scale(1.05);
-}
-
-.thumbnail-photo {
-  transition: all 0.5s ease-out;
-}
-
